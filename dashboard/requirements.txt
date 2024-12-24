@@ -2,7 +2,7 @@
 plotly
 pandas
 gunicorn==20.1.0
-numby
+
 
 dash
 dash-bootstrap-components
